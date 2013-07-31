@@ -1,0 +1,2 @@
+#fasd.vim
+pluginize this configuration: https://github.com/clvv/fasd/wiki/Vim-Integration
